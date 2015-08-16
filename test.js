@@ -4,9 +4,4 @@ function test(){
 	
 }
 function test5(){}
-function test7(){
-	
-	alert(1111111);
-}
-
 function test6(){}
